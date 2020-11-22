@@ -8,7 +8,7 @@ Ingólfsson, H. I., Carpenter, T. S., Bhatia, H., Bremer, P. T., Marrink, S. J.,
 
 This work is published as:
 
-XXX
+Wilson, K. A.; MacDermott-Opeskin, H. I.; Riley, E.; Lin, Y.; O’Mara, M. L. Understanding the Link between Lipid Diversity and the Biophysical Properties of the Neuronal Plasma Membrane. Biochemistry 2020, 59 (33), 3010–3018.
 
 All material is provided under an MIT license please cite the above references when using this work
 
