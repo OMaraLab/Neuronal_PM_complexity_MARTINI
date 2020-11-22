@@ -4,7 +4,7 @@ MARTINI models used to investigate neuronal plasma membrane models of varying co
 
 Neuronal PM model based on:
 
-Ingólfsson, H. I., Carpenter, T. S., Bhatia, H., Bremer, P. T., Marrink, S. J., & Lightstone, F. C. (2017). Computational Lipidomics of the Neuronal Plasma Membrane. Biophysical Journal, 113(10), 2271–2280. https://doi.org/10.1016/j.bpj.2017.10.017
+Ingólfsson, H. I.; Carpenter, T. S.; Bhatia, H.; Bremer, P. T.; Marrink, S. J.; Lightstone, F. C. Computational Lipidomics of the Neuronal Plasma Membrane. Biophys. J. 2017, 113 (10), 2271–2280.
 
 This work is published as:
 
